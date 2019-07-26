@@ -6,4 +6,4 @@ This library needs the muxall/ST7528i "Library for I2C graphical LCD based on Si
 This library is part of my BBQ Controller for Traeger BBQ Grills project.  For more info
 go to www.muxall.com.
 
-There is an example Arduino sketch main.ino and it wasn't tested. 
+There is an example Arduino sketch main.ino: it wasn't tested. 
